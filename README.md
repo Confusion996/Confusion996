@@ -2,7 +2,7 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![stats](https://github-readme-stats.vercel.app/api?username=confusion996&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=Confusion996&show_icons=true&theme=radical)
 
 ## 🚀 About Me
 
@@ -17,6 +17,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
 
 Here are some ideas to get you started:
