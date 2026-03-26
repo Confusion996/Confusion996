@@ -17,7 +17,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Confusion996/Confusion996/blob/output/github-contribution-grid-snake.svg)
 <!--
 
 Here are some ideas to get you started:
