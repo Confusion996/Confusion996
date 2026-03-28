@@ -1,16 +1,15 @@
 # Hi, I'm <YOUR NAME>! 👋
 
-I am a computer engineering student 
+I just a computer engineering student 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Confusion996&show_icons=true&theme=radical)
 
 ## 🚀 About Me
 i like throwing stuff and see what sticks
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,arduino,c,cs,css,dart,flutter,html,js,linux,nextjs,nodejs,ts)](https://skillicons.dev)
 
-![Snake animation](https://github.com/Confusion996/Confusion996/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 
 Here are some ideas to get you started:
