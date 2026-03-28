@@ -7,7 +7,7 @@ I just a computer engineering student
 i like throwing stuff and see what sticks
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=arch,arduino,c,cs,css,dart,flutter,html,js,linux,nextjs,nodejs,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,arduino,c,cs,css,dart,flutter,html,js,linux,nextjs,nodejs,ts)]
 
 
 <!--
