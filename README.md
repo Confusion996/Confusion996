@@ -1,6 +1,6 @@
 # Hi, I'm <YOUR NAME>! 👋
 
-I just a computer engineering student 
+I just a student 
 
 
 ## 🚀 About Me
